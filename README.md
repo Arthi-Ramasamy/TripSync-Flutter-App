@@ -54,11 +54,11 @@ TripSync is a mobile application designed to streamline the management and organ
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tripSync.git
+   git clone https://github.com/Arthi-Ramasamy/TripSync-Flutter-App.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd tripSync
+   cd TripSync-Flutter-App
    ```
 3. Install dependencies:
    ```sh
